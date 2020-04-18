@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.max.findersettings
+Version: 1.0
+Section: Themes
+Maintainer: MaxSolar0713 <antidisneymax@gmail.com>
+Depends: firmware
+Architecture: iphoneos-arm
+Filename: /debs/FinderSettings.deb
+Size: 172522
+MD5sum: 4837948fe3c2c32ec486a4038d155714
+Description: This replaces your Settings icon with Finder Icon.
+Name: FinderSettings
+Author: Maximus Johnson <antidisneymax@gmail.com>
+Depiction: starman0713.github.io/repo
