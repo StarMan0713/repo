@@ -34,13 +34,13 @@ Depends: firmware
 Architecture: iphoneos-arm
 Filename: /debs/FinderSettings.deb
 Size: 1173160
-MD5sum: 4837948fe3c2c32ec486a4038d155714
+MD5sum: e8c63069efe5926c0850ab5fb947c255
 Description: This replaces your Settings icon with Finder Icon.
 Name: FinderSettings
 Author: Maximus Johnson <antidisneymax@gmail.com>
 Depiction: starman0713.github.io/repo
 
-Package: com.max.notreddit
+Package: com.starman0713.notreddit
 Version: 0.1
 Section: Themes
 Maintainer: MaxSolar0713 <antidisneymax@gmail.com>
