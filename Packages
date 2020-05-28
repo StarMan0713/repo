@@ -1,0 +1,27 @@
+Package: com.max.findersettings
+Version: 1.0
+Section: Themes
+Maintainer: MaxSolar0713 <antidisneymax@gmail.com>
+Depends: firmware
+Architecture: iphoneos-arm
+Filename: /debs/FinderSettings.deb
+Size: 1173160
+MD5sum: e8c63069efe5926c0850ab5fb947c255
+Description: This replaces your Settings icon with Finder Icon.
+Name: FinderSettings
+Author: Maximus Johnson <antidisneymax@gmail.com>
+Depiction: starman0713.github.io/repo
+
+Package: com.max.notreddit
+Version: 0.1
+Section: Themes
+Maintainer: MaxSolar0713 <antidisneymax@gmail.com>
+Depends: firmware
+Architecture: iphoneos-arm
+Filename: /debs/NotReddit.deb
+Size: 33260
+MD5sum: eae570e8a6fc85acd139d0e6fd2d1d46
+Description: Replaced 3rd-Party Reddit App Icons (i.e. Apollo) with the official Reddit icon.
+Name: NotReddit
+Author: Maximus Johnson <antidisneymax@gmail.com>
+Depiction: starman0713.github.io/repo
