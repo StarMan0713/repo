@@ -47,7 +47,7 @@ Maintainer: MaxSolar0713 <antidisneymax@gmail.com>
 Depends: firmware
 Architecture: iphoneos-arm
 Filename: /debs/NotReddit.deb
-Size: 33260
+Size: 40960
 MD5sum: EAE570E8A6FC85ACD139D0E6FD2D1D46
 Description: Replaced 3rd-Party Reddit App Icons (i.e. Apollo) with the official Reddit icon.
 Name: NotReddit
