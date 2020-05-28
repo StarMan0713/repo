@@ -33,7 +33,7 @@ Maintainer: MaxSolar0713 <antidisneymax@gmail.com>
 Depends: firmware
 Architecture: iphoneos-arm
 Filename: /debs/FinderSettings.deb
-Size: 172522
+Size: 1173160
 MD5sum: 4837948fe3c2c32ec486a4038d155714
 Description: This replaces your Settings icon with Finder Icon.
 Name: FinderSettings
@@ -48,7 +48,7 @@ Depends: firmware
 Architecture: iphoneos-arm
 Filename: /debs/NotReddit.deb
 Size: 33260
-MD5sum: EAE570E8A6FC85ACD139D0E6FD2D1D46
+MD5sum: eae570e8a6fc85acd139d0e6fd2d1d46
 Description: Replaced 3rd-Party Reddit App Icons (i.e. Apollo) with the official Reddit icon.
 Name: NotReddit
 Author: Maximus Johnson <antidisneymax@gmail.com>
